@@ -1,5 +1,5 @@
 # Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation
-This is the source code repository for the Good Time to Ask (GTA) paper. The experiments are tested on Ubuntu 18.04 and 20.04.
+This is the source code repository for the [Good Time to Ask (GTA) paper](https://arxiv.org/abs/2206.10606). The experiments are tested on Ubuntu 18.04 and 20.04.
 
 ## Setup
 Clone the repository with `git clone [to be inserted] && cd allenact_ask`.
