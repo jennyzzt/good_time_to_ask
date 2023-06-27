@@ -1,4 +1,4 @@
-# Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation
+# Good Time to Ask: A Learning Framework for Asking for Help in Embodied Visual Navigation [[Paper]](https://arxiv.org/abs/2206.10606) [[Website]](http://www.jennyzhangzt.com/gta/)
 This is the source code repository for the [Good Time to Ask (GTA) paper](https://arxiv.org/abs/2206.10606). The experiments are tested on Ubuntu 18.04 and 20.04.
 
 ## Setup
